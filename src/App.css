@@ -1,0 +1,36 @@
+
+body{
+  background-color: rgb(236, 146, 164);
+}
+h1{
+  color: rgb(23, 168, 168);
+  margin-left: 80px;
+  text-align: center;
+}
+.box-container{
+  display: flex;
+  margin: 10px;
+  justify-content:space-around;
+  flex-direction: column;
+  margin-left: 150px;
+}
+.boxone{
+  margin: 20px;
+  padding: 25px;
+  background-color: rgb(53, 194, 147);
+  border-radius: 25px;
+  width: 400px;
+  
+}
+.boxtwo{
+  margin: 20px;
+  padding: 25px;
+  background-color: rgb(57, 218, 164);
+  border-radius: 25px;
+  width: 400px;
+  
+}
+.boxfive{
+  display: flex;
+  width: 150px;
+}
